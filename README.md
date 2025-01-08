@@ -1,2 +1,2 @@
 # Calculator
-Calculator with basic functions
+Calculator With Some Basic Functions 
